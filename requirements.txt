@@ -3,3 +3,6 @@ langchain
 langchain-community
 faiss-cpu
 python-dotenv
+langchain-core
+langchain-groq
+openai
